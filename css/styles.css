@@ -1,0 +1,25 @@
+.social-link .link {
+  color: teal;
+}
+.social-link .link:hover,
+.social-link .link:focus {
+  color: rgb(4, 174, 241);
+}
+.social-link .link:active {
+  color: red;
+}
+.social-link .link:visited {
+  color: yellow;
+}
+.schedule-body > tr:hover {
+  background-color: brown;
+  color: white;
+}
+.schedule {
+  border-collapse: collapse;
+}
+.schedule th,
+.schedule td {
+  padding: 8px;
+  border: 1px solid #212121;
+}
